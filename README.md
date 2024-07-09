@@ -21,7 +21,7 @@ This repository contains a Python script that automates the process of retrievin
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/gmail-login-automation.git
+    git clone https://github.com/utkarshh05/gmail-login-automation.git
     cd gmail-login-automation
     ```
 
@@ -38,7 +38,7 @@ This repository contains a Python script that automates the process of retrievin
 1. Run the script:
 
     ```sh
-    python gmail_login_automation.py
+    python GMAIL_LOGIN_AUTOMATE_RETRIEVE.py
     ```
 
     The script will connect to the PostgreSQL database, retrieve the email and password, and then automate the login process to Gmail.
